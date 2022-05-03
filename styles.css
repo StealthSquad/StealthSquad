@@ -1,0 +1,42 @@
+body{
+    background-color: #000000f3;
+    color: #ffffff;
+
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.ava1{
+    border-radius: 28px;
+    border: 3px solid white;
+}
+.ava2{
+    border-radius: 28px;
+    border: 3px solid white;
+}
+.text2{
+    font-size: 30px;
+}
+.sob{
+    
+}
+.match{
+    border-radius: 28px;
+    border: 2px solid white;
+}
+.дата{
+    font-size: 30px;
+}
+.see{
+    font-size: 30px;
+}
+.ava3{
+    border-radius: 28px;
+    border: 2px solid white;
+}
+.klan{
+font-size: 40px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
